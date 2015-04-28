@@ -13,7 +13,9 @@ libtool
 
 required libraries:
 
-```libreadline-dev```
+```
+libreadline-dev
+```
 
 install:
 
