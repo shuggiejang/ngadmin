@@ -26,6 +26,12 @@ apt-get install autoconf automake libtool libreadline-dev
 build:
 
 ```
+./build.sh
+```
+
+or
+
+```
 cd ~/ngadmin/
 autoreconf -i
 ./configure --help # see all available options
